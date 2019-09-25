@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Employees>
+    <Employee id="1">
+        <age>29</age>
+        <name>Smith</name>
+        <role>Java Developer
+            <department>Technology</department>
+            <supervisor>Alison</supervisor>
+        </role>
+        <building>Tower A
+            <room> Room 1</room>
+        </building>
+    </Employee>
+    <Employee id="2">
+        <age>35</age>
+        <name>Lisa</name>
+        <role>Consultant
+            <department>Human Resource</department>
+            <supervisor>Danny</supervisor>
+        </role>
+        <building>Tower C
+            <room> Room 45</room>
+        </building>
+    </Employee>
+    <Employee id="1">
+<!--        <age>46</age>-->
+        <name>Tom</name>
+        <role>Manager
+            <department>Engineering</department>
+            <supervisor>Hastings</supervisor>
+        </role>
+        <building>Tower B
+            <room> Room 5</room>
+        </building>
+    </Employee>
+    <Employee id="4">
+        <age>23</age>
+        <name>Suzy</name>
+        <role>Clerk
+            <department>Management</department>
+            <supervisor>Caleb</supervisor>
+        </role>
+        <building>Tower D
+            <room> Room 16</room>
+        </building>
+    </Employee>
+    <Employee id="5">
+        <age>33</age>
+        <name>Samantha</name>
+        <role>Teacher
+            <department>Education</department>
+            <supervisor>Mona</supervisor>
+        </role>
+        <building>Tower D
+            <room> Room 65</room>
+        </building>
+    </Employee>
+        <Employee id="5">
+        <age>31</age>
+        <name>Toby</name>
+        <role>Admin
+            <department>Technology</department>
+            <supervisor>Mona</supervisor>
+        </role>
+        <building>Tower E
+            <room> Room 1</room>
+        </building>
+    </Employee>
+        <Employee id="6">
+        <age>33</age>
+    </Employee>
+        <Employee id="6">
+        <age>33</age>
+        <name>John</name>
+        <role>Clerk
+            <department>Technology</department>
+            <supervisor>Caleb</supervisor>
+        </role>
+        <building>Tower D
+            <room> Room 9</room>
+        </building>
+    </Employee>
+</Employees>
